@@ -9,6 +9,10 @@ Example install V8 video run firefox browser : https://radikal.ru/video/37hX8285
 
 Test perfomance 2D https://www.shadertoy.com/view/3lsSzf replace my fix string compile flag rerun
 
+Not xwayland absolute wayland not run chrome and analog browsers icc
+
+Xwayland https://github.com/Griggorii/mesa-21.0.1_V8-libdrm_ubuntu-20.04_and_19.04_graphics
+
 ----------------------------------------------------------------------------------------------------
 
 Just log information:
